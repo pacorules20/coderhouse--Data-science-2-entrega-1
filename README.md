@@ -1,6 +1,4 @@
-# coderhouse--Data-science-2-entrega-1
-
-# Ferreyra Ivan 
+# Data Science 2 CoderHouse (Comisión 61755) - Ivan Ferreyra
 
 ## Link a la presentacion:
 - https://docs.google.com/presentation/d/1aS76P215yfuhykLJcT-x4N-wDduWznBl/edit?usp=sharing&ouid=116419700563522039576&rtpof=true&sd=true
